@@ -1,6 +1,6 @@
 @echo off
 
-set "project_dir=..\wcbot"
+set "project_dir=..\wwc-main"
 set "venv_dir=%project_dir%"
 
 rem Create virtual environment
